@@ -1,1 +1,1 @@
-
+nifty little javascript solution
